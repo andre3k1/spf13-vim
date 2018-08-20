@@ -1,2 +1,5 @@
+" Fixes missing plugin which caused install script to fail
+" https://github.com/spf13/spf13-vim/issues/1053
+" https://github.com/spf13/spf13-vim/issues/1014
 Plugin 'heracek/HTML-AutoCloseTag', {'name': 'HTML-AutoCloseTag2'}
 UnBundle 'amirh/HTML-AutoCloseTag'

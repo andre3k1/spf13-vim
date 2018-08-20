@@ -1,0 +1,4 @@
+" List the plugin bundle groups you wish use
+" See .vimrc.bundles for available bundle groups
+" To override all the included bundles, use 'let g:override_spf13_bundles = 1'
+let g:spf13_bundle_groups=['general', 'writing', 'programming', 'php', 'javascript', 'html', 'misc',]

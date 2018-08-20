@@ -1,0 +1,4 @@
+" When you set showcmd in your vimrc, the bottom line in your editor will show
+" you information about the current command going on.
+" :help showcmd
+set showcmd " display incomplete commands
